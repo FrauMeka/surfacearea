@@ -10,7 +10,8 @@ This Java project demonstrates the implementation of a `Shape3DInterface` with t
 ### Shape3DInterface
 - Defines two methods:
   - `surfaceArea()`: Returns the surface area of the shape.
-  - `volume()`: Returns the volume of the shape.
+  - `volume()`: Returns<img width="1440" alt="Screenshot 2024-12-06 at 11 54 22 AM" src="https://github.com/user-attachments/assets/771e7ef4-8c6e-4e27-99ba-be9806f9fe38">
+ the volume of the shape.
 
 ### Sphere
 - Attributes: `radius`.
