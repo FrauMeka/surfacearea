@@ -38,3 +38,6 @@ This Java project demonstrates the implementation of a `Shape3DInterface` with t
 2. Compile the Java files using a Java compiler:
    ```bash
    javac *.java
+
+
+<img width="1440" alt="Screenshot 2024-12-06 at 11 54 22 AM" src="https://github.com/user-attachments/assets/1eef7261-e163-4c16-a4f4-0dd57625fa1b">
